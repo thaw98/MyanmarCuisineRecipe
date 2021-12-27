@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:id="@+id/g1">
+
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="Home"></item>
+
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_profile"
+            android:title="Profile"></item>
+
+
+
+
+        <item
+            android:id="@+id/Soup"
+            android:icon="@drawable/ic_soop"
+            android:title="Soup"></item>
+
+        <item
+            android:id="@+id/checken"
+            android:icon="@drawable/ic_chicken"
+            android:title="Chicken"></item>
+
+        <item
+            android:id="@+id/Curry"
+            android:icon="@drawable/ic_curry"
+            android:title="Curry"></item>
+        <item
+            android:id="@+id/Egg"
+            android:icon="@drawable/ic_egg"
+            android:title="Egg"></item>
+        <item
+            android:id="@+id/Fish"
+            android:icon="@drawable/ic_fish"
+            android:title="Fish"></item>
+
+        <item
+            android:id="@+id/Rice"
+            android:icon="@drawable/ic_rice"
+            android:title="Rice"></item>
+
+
+        <item
+            android:id="@+id/Noodles"
+            android:icon="@drawable/ic_noodle"
+            android:title="Noodles"></item>
+
+        <item
+            android:id="@+id/Seafood"
+            android:icon="@drawable/ic_seafood"
+            android:title="Seafood"></item>
+
+        <item
+            android:id="@+id/Snack"
+            android:icon="@drawable/ic_snak"
+            android:title="Snack"></item>
+
+
+        <item
+            android:id="@+id/Drinks"
+            android:icon="@drawable/ic_water"
+            android:title="Drinks"></item>
+
+        <item
+            android:id="@+id/SeasonalFood"
+            android:icon="@drawable/ic_seasonal_food"
+            android:title="Seasonal Food"></item>
+        <item
+            android:id="@+id/NonVegetarian"
+            android:icon="@drawable/ic_non_veg"
+            android:title="NonVegetarian"></item>
+
+        <item
+            android:id="@+id/Vegetarian"
+            android:icon="@drawable/ic_vegetarian"
+            android:title="Vegetarian"></item>
+
+
+    </group>
+
+    <group android:id="@+id/g2">
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout"></item>
+    </group>
+</menu>

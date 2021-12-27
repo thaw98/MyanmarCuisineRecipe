@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BF55D1</color>
+    <color name="colorPrimaryDark">#FB781F</color>
+    <color name="colorAccent">#16DA1E</color>
+
+    <color name="colorIntroText">#1F1F56</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="transparent">#78050505</color>
+    <color name="ColorAppBar">#FB781F</color>
+</resources>

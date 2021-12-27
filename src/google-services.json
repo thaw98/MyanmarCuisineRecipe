@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1065172668884",
+    "firebase_url": "https://myanmar-cuisine-recipe.firebaseio.com",
+    "project_id": "myanmar-cuisine-recipe",
+    "storage_bucket": "myanmar-cuisine-recipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065172668884:android:448d86f8cb0841c1e58641",
+        "android_client_info": {
+          "package_name": "com.example.myanmarcuisinerecipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065172668884-in7spc5f8fft5k9lnek0uhkhj84e2v4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myanmarcuisinerecipe",
+            "certificate_hash": "a9c043f5b0dcaaecd9cd0846f269b972d132cae9"
+          }
+        },
+        {
+          "client_id": "1065172668884-eq4k3lp0bsipuoou4pp8s11in46idi7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-tqruQIzgNBG6AU98TOVlhH4sf8wk3EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065172668884-eq4k3lp0bsipuoou4pp8s11in46idi7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
